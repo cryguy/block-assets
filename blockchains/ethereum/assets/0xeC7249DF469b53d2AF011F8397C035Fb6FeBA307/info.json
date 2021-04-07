@@ -1,0 +1,11 @@
+{
+    "name": "TUBE2",
+    "website": "",
+    "description": "TUBE2 is TUBE but with 2.",
+    "explorer": "",
+    "type": "ERC20",
+    "symbol": "TUBE2",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xec7249df469b53d2af011f8397c035fb6feba307"
+}
